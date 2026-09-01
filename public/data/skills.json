@@ -1,0 +1,551 @@
+[
+  {
+    "id": 1,
+    "name": "GitHub Catalogue Skill",
+    "description": "Automatically inventory GitHub repositories, categorize them, and generate organized catalogue reports with analysis version: 1.0.0 author: Patrick Diamitani",
+    "category": "Other",
+    "repository": "https://github.com/diamitani/github-catalogue-skill",
+    "repoName": "github-catalogue-skill",
+    "fileSize": "12329"
+  },
+  {
+    "id": 2,
+    "name": "What is the software life cycle development process",
+    "description": "<img src=\"https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png\" style=\"height:64px;margin-right:32px\"/>",
+    "category": "Other",
+    "repository": "https://github.com/diamitani/what_is_the_software_life_cycle_development_proces-skill",
+    "repoName": "what_is_the_software_life_cycle_development_proces-skill",
+    "fileSize": "26921"
+  },
+  {
+    "id": 3,
+    "name": "Visual Style Guide — Hand-Crafted SVG Diagrams",
+    "description": "This is the design system for every diagram this skill draws. Follow it exactly; consistency is what makes the output look professional.",
+    "category": "Design & Visualization",
+    "repository": "https://github.com/diamitani/visual_style_guide-skill",
+    "repoName": "visual_style_guide-skill",
+    "fileSize": "7287"
+  },
+  {
+    "id": 4,
+    "name": "Universal Agent Factory Checklist",
+    "description": "Use this checklist to turn a vague request into a durable, safe, testable agent package. It generalizes the DDC/ROSTR pattern into an agent-development cycle:",
+    "category": "AI/Agent Framework",
+    "repository": "https://github.com/diamitani/universal_agent_factory_checklist-skill",
+    "repoName": "universal_agent_factory_checklist-skill",
+    "fileSize": "19392"
+  },
+  {
+    "id": 5,
+    "name": "Troubleshooting Report — Template",
+    "description": "The second required deliverable. Its job is to show **judgment under friction** — that the",
+    "category": "Templates & Documentation",
+    "repository": "https://github.com/diamitani/troubleshooting_template-skill",
+    "repoName": "troubleshooting_template-skill",
+    "fileSize": "3613"
+  },
+  {
+    "id": 6,
+    "name": "Agent Soul — Premium Site Builder",
+    "description": "You are the Site Empire general. You design and build premium web products that can take payments, feel exceptional, and grow from one user to billions without rewriting the object model.",
+    "category": "Other",
+    "repository": "https://github.com/diamitani/soul-skill",
+    "repoName": "soul-skill",
+    "fileSize": "2209"
+  },
+  {
+    "id": 7,
+    "name": "Skill: ddc-plan",
+    "description": "Name: Delali Development Cycle Planning Runtime",
+    "category": "Project Management",
+    "repository": "https://github.com/diamitani/skill_ddc_plan-skill",
+    "repoName": "skill_ddc_plan-skill",
+    "fileSize": "1933"
+  },
+  {
+    "id": 8,
+    "name": "MSA DocuSign Skill — One-Time Setup (per seller)",
+    "description": "The skill fills the DocuSign MSA intake form in your browser. For that it needs ONE of the connections below. You only do this once. If nothing is set up, the skill will detect it and walk you through this in chat.",
+    "category": "Other",
+    "repository": "https://github.com/diamitani/setup-skill",
+    "repoName": "setup-skill",
+    "fileSize": "2470"
+  },
+  {
+    "id": 9,
+    "name": "Session Overview Skill",
+    "description": "Session debrief and clarity skill. Reads the full conversation transcript — every message, code block, tool call, permission button, and \"yes/approve\" click — a",
+    "category": "Templates & Documentation",
+    "repository": "https://github.com/diamitani/session_overview-skill",
+    "repoName": "session_overview-skill",
+    "fileSize": "12139"
+  },
+  {
+    "id": 10,
+    "name": "New Project Automation — Scheduler Skill",
+    "description": "New Project Automation Scheduler — connects your calendar, active projects, and NPAO task   queues to build a real, time-aware daily and weekly work plan.",
+    "category": "Other",
+    "repository": "https://github.com/diamitani/scheduler-skill",
+    "repoName": "scheduler-skill",
+    "fileSize": "19253"
+  },
+  {
+    "id": 11,
+    "name": "ROSTR Hub + ContextEngine",
+    "description": "Canonical source:** ROSTR Hub https://rostr-paper.vercel.app/#s7 · ContextEngine https://rostr-paper.vercel.app/#s8",
+    "category": "AI/Agent Framework",
+    "repository": "https://github.com/diamitani/rostr_hub_contextengine-skill",
+    "repoName": "rostr_hub_contextengine-skill",
+    "fileSize": "4119"
+  },
+  {
+    "id": 12,
+    "name": "RFP Response Structure",
+    "description": "1. Company overview",
+    "category": "Other",
+    "repository": "https://github.com/diamitani/response_structure-skill",
+    "repoName": "response_structure-skill",
+    "fileSize": "298"
+  },
+  {
+    "id": 13,
+    "name": "Marketing Chatbot — Reporting Framework (Patrick's canonical asset registry, 2026-07-15)",
+    "description": "The reporting framework = **Segments** (contact & company lists) + **Workflows** (HubSpot",
+    "category": "Templates & Documentation",
+    "repository": "https://github.com/diamitani/reporting_framework-skill",
+    "repoName": "reporting_framework-skill",
+    "fileSize": "3399"
+  },
+  {
+    "id": 14,
+    "name": "Maia Report Templates",
+    "description": "Every report header must state: **date range · data sources · pulled at (CT)**.",
+    "category": "Templates & Documentation",
+    "repository": "https://github.com/diamitani/report_templates-skill",
+    "repoName": "report_templates-skill",
+    "fileSize": "3534"
+  },
+  {
+    "id": 15,
+    "name": "Daily Session Recap — Report Template",
+    "description": "Use this exact structure when generating the daily recap. Adapt section content to what was actually found — omit sections with no content rather than leaving them empty.",
+    "category": "Templates & Documentation",
+    "repository": "https://github.com/diamitani/report_template-skill",
+    "repoName": "report_template-skill",
+    "fileSize": "4194"
+  },
+  {
+    "id": 16,
+    "name": "Redaction Rules — full vs redacted, and secret scrubbing",
+    "description": "Two jobs live here: (A) producing the **redacted twin** of every document, and (B) the",
+    "category": "Other",
+    "repository": "https://github.com/diamitani/redaction_rules-skill",
+    "repoName": "redaction_rules-skill",
+    "fileSize": "4301"
+  },
+  {
+    "id": 17,
+    "name": "RAG DAL — Retrieval / Data Abstraction Layer",
+    "description": "Canonical source:** https://rostr-paper.vercel.app/#s5",
+    "category": "AI/Agent Framework",
+    "repository": "https://github.com/diamitani/ragdal_framework-skill",
+    "repoName": "ragdal_framework-skill",
+    "fileSize": "4416"
+  },
+  {
+    "id": 18,
+    "name": "Premium Site Build Operating System",
+    "description": "Codename:** Site Empire OS",
+    "category": "Other",
+    "repository": "https://github.com/diamitani/premium_site_build_os-skill",
+    "repoName": "premium_site_build_os-skill",
+    "fileSize": "49105"
+  },
+  {
+    "id": 19,
+    "name": "PAL — Prompt Abstraction Layer",
+    "description": "Canonical source:** https://rostr-paper.vercel.app/#s4",
+    "category": "AI/Agent Framework",
+    "repository": "https://github.com/diamitani/pal_framework-skill",
+    "repoName": "pal_framework-skill",
+    "fileSize": "7300"
+  },
+  {
+    "id": 20,
+    "name": "PAL Depth Guide — name-then-translate",
+    "description": "The reader is a high-level decision-maker assessing technical AI talent. They are smart,",
+    "category": "AI/Agent Framework",
+    "repository": "https://github.com/diamitani/pal_depth_guide-skill",
+    "repoName": "pal_depth_guide-skill",
+    "fileSize": "3667"
+  },
+  {
+    "id": 21,
+    "name": "Overview Document Template",
+    "description": "Every diagram ships with this markdown walkthrough. Step numbers MUST match the numbered badges in the diagram. Write for a non-technical reader first; put technical depth in the tables.",
+    "category": "Templates & Documentation",
+    "repository": "https://github.com/diamitani/overview_template-skill",
+    "repoName": "overview_template-skill",
+    "fileSize": "2042"
+  },
+  {
+    "id": 22,
+    "name": "Output Specification",
+    "description": "This document defines the exact structure of the two-tab Excel workbook produced by this skill.",
+    "category": "Other",
+    "repository": "https://github.com/diamitani/output_spec-skill",
+    "repoName": "output_spec-skill",
+    "fileSize": "4316"
+  },
+  {
+    "id": 23,
+    "name": "NPAO Priority Framework + 4Ds Lifecycle",
+    "description": "Canonical source:** NPAO https://rostr-paper.vercel.app/#s6 · 4Ds https://rostr-paper.vercel.app/#s6-7",
+    "category": "AI/Agent Framework",
+    "repository": "https://github.com/diamitani/npao_4ds_framework-skill",
+    "repoName": "npao_4ds_framework-skill",
+    "fileSize": "4922"
+  },
+  {
+    "id": 24,
+    "name": "Mermaid Theming — Editable Diagrams That Still Look Good",
+    "description": "Use Mermaid when the user needs an editable/embeddable artifact (Notion, GitHub, Confluence) or for types where Mermaid beats hand-drawn SVG (sequence, Gantt, state, ERD). Always ship it themed — never default-theme Mermaid.",
+    "category": "Design & Visualization",
+    "repository": "https://github.com/diamitani/mermaid_theming-skill",
+    "repoName": "mermaid_theming-skill",
+    "fileSize": "2568"
+  },
+  {
+    "id": 25,
+    "name": "Mermaid.js — Diagram & Workflow Creation",
+    "description": "Mermaid is a free, open-source diagramming library that renders text-based diagram definitions",
+    "category": "Design & Visualization",
+    "repository": "https://github.com/diamitani/mermaid_diagrams-skill",
+    "repoName": "mermaid_diagrams-skill",
+    "fileSize": "10260"
+  },
+  {
+    "id": 26,
+    "name": "MCP Guide: session_info Tools",
+    "description": "This skill uses two MCP tools from the `session_info` server to access today's Cowork sessions.",
+    "category": "Other",
+    "repository": "https://github.com/diamitani/mcp_guide-skill",
+    "repoName": "mcp_guide-skill",
+    "fileSize": "6038"
+  },
+  {
+    "id": 27,
+    "name": "List Creation — Question Flow",
+    "description": "The exact questionnaire to run (via `AskUserQuestion`) **before** creating a HubSpot list,",
+    "category": "Other",
+    "repository": "https://github.com/diamitani/list_questionnaire-skill",
+    "repoName": "list_questionnaire-skill",
+    "fileSize": "4961"
+  },
+  {
+    "id": 28,
+    "name": "Intake Questionnaire — the 12 facts every case study needs",
+    "description": "Run this against the uploaded artifacts in Stage 1. For each fact, try to **extract it from",
+    "category": "Other",
+    "repository": "https://github.com/diamitani/intake_questionnaire-skill",
+    "repoName": "intake_questionnaire-skill",
+    "fileSize": "3670"
+  },
+  {
+    "id": 29,
+    "name": "Intake Map (Reference)",
+    "description": "The 6 sections every input is silently mapped against. **The user never fills this out.** The system extracts from their input + research, labels each field, and surfaces only unresolved gaps in the Gap Check.",
+    "category": "Other",
+    "repository": "https://github.com/diamitani/intake_map-skill",
+    "repoName": "intake_map-skill",
+    "fileSize": "4287"
+  },
+  {
+    "id": 30,
+    "name": "Semantic Industry Mapping — Reference",
+    "description": "Source spreadsheets carry industry in countless forms (\"Software\", \"SaaS\", \"Fintech\",",
+    "category": "Other",
+    "repository": "https://github.com/diamitani/industry_mapping-skill",
+    "repoName": "industry_mapping-skill",
+    "fileSize": "3398"
+  },
+  {
+    "id": 31,
+    "name": "HubSpot Upload — Reference",
+    "description": "How `scripts/hubspot_upload.py` pushes formatted records into HubSpot and builds lists.",
+    "category": "Sales & Marketing",
+    "repository": "https://github.com/diamitani/hubspot_upload-skill",
+    "repoName": "hubspot_upload-skill",
+    "fileSize": "5219"
+  },
+  {
+    "id": 32,
+    "name": "HubSpot Lists — Static vs Active + Filter Format",
+    "description": "The uploader can create a list after pushing records. Conduct the questionnaire (name,",
+    "category": "Sales & Marketing",
+    "repository": "https://github.com/diamitani/hubspot_lists-skill",
+    "repoName": "hubspot_lists-skill",
+    "fileSize": "3746"
+  },
+  {
+    "id": 33,
+    "name": "GTM Engineering: Automation, Architecture & Agent Orchestration",
+    "description": "\"When the user wants to build GTM automation with code, design workflow architectures, use AI agents for GTM tasks, or implement the 'architecture over tools' princi",
+    "category": "Sales & Marketing",
+    "repository": "https://github.com/diamitani/gtm_engineering-skill",
+    "repoName": "gtm_engineering-skill",
+    "fileSize": "45778"
+  },
+  {
+    "id": 34,
+    "name": "Factors.ai API — GTM Architect Reference",
+    "description": "This is the Factors.ai reference for use within gtm-architect.",
+    "category": "Sales & Marketing",
+    "repository": "https://github.com/diamitani/gtm_architect_factors_api_reference-skill",
+    "repoName": "gtm_architect_factors_api_reference-skill",
+    "fileSize": "4793"
+  },
+  {
+    "id": 35,
+    "name": "Frameworks (Reference)",
+    "description": "Internal engine rules — condensed from the ROSTR Framework (canonical source: https://rostr-paper.vercel.app). These shape how the work is done. **The terminology never appears in user-facing documents** — the Brief and Leadership Summary use plain English (blocker, friction, core work, nice-to-have).",
+    "category": "Other",
+    "repository": "https://github.com/diamitani/frameworks-skill",
+    "repoName": "frameworks-skill",
+    "fileSize": "4789"
+  },
+  {
+    "id": 36,
+    "name": "Figma MCP",
+    "description": "Use this reference when the task includes mockups, interface boards, storyboards, polished diagrams, or design-system-like layout work.",
+    "category": "Other",
+    "repository": "https://github.com/diamitani/figma_mcp-skill",
+    "repoName": "figma_mcp-skill",
+    "fileSize": "2089"
+  },
+  {
+    "id": 37,
+    "name": "Factors.ai → HubSpot Sync Reference",
+    "description": "This file covers the primary use case: syncing Factors.ai workflow activity into HubSpot,",
+    "category": "Sales & Marketing",
+    "repository": "https://github.com/diamitani/factors_to_hubspot-skill",
+    "repoName": "factors_to_hubspot-skill",
+    "fileSize": "13524"
+  },
+  {
+    "id": 38,
+    "name": "Factors.ai REST API Reference",
+    "description": "Auth is in `credentials.md`. Load that first.",
+    "category": "Other",
+    "repository": "https://github.com/diamitani/factors_api-skill",
+    "repoName": "factors_api-skill",
+    "fileSize": "11062"
+  },
+  {
+    "id": 39,
+    "name": "Worked Example — full vs redacted (abbreviated)",
+    "description": "A reference for the voice, depth, and the full→redacted transform. This is intentionally",
+    "category": "Other",
+    "repository": "https://github.com/diamitani/examples-skill",
+    "repoName": "examples-skill",
+    "fileSize": "3976"
+  },
+  {
+    "id": 40,
+    "name": "Common EOR Topics & Search Keywords",
+    "description": "Use this as a reference when building SharePoint search queries.",
+    "category": "Other",
+    "repository": "https://github.com/diamitani/eor_topics-skill",
+    "repoName": "eor_topics-skill",
+    "fileSize": "2349"
+  },
+  {
+    "id": 41,
+    "name": "Director Readiness Framework",
+    "description": "This framework helps you coach Patrick when he's operating below his target altitude, and recognize when he's operating above it.",
+    "category": "Other",
+    "repository": "https://github.com/diamitani/director_readiness_framework-skill",
+    "repoName": "director_readiness_framework-skill",
+    "fileSize": "3714"
+  },
+  {
+    "id": 42,
+    "name": "Diagram Type Selection",
+    "description": "Pick the type from the user's underlying question, not their vocabulary. \"Architecture diagram\" can mean six different things.",
+    "category": "Design & Visualization",
+    "repository": "https://github.com/diamitani/diagram_types-skill",
+    "repoName": "diagram_types-skill",
+    "fileSize": "5001"
+  },
+  {
+    "id": 43,
+    "name": "Design Image Prompting",
+    "description": "Use this reference when the user wants beautiful concept images, boards, or interface visuals rather than only a technical diagram.",
+    "category": "Design & Visualization",
+    "repository": "https://github.com/diamitani/design_image_prompting-skill",
+    "repoName": "design_image_prompting-skill",
+    "fileSize": "1165"
+  },
+  {
+    "id": 44,
+    "name": "Decision Rules",
+    "description": "Reference this file when classifying facts and routing ownership. These rules enforce consistency across all extractions, regardless of source document.",
+    "category": "Other",
+    "repository": "https://github.com/diamitani/decision_rules-skill",
+    "repoName": "decision_rules-skill",
+    "fileSize": "7210"
+  },
+  {
+    "id": 45,
+    "name": "The Delali Development Cycle",
+    "description": "A planning harness and product-operating system for building premium websites and software with non-technical operators in the loop**",
+    "category": "Project Management",
+    "repository": "https://github.com/diamitani/ddc_white_paper-skill",
+    "repoName": "ddc_white_paper-skill",
+    "fileSize": "10096"
+  },
+  {
+    "id": 46,
+    "name": "Delali Development Cycle — Planning Harness",
+    "description": "Codename:** DDC Planning Runtime",
+    "category": "Project Management",
+    "repository": "https://github.com/diamitani/ddc_planning_harness-skill",
+    "repoName": "ddc_planning_harness-skill",
+    "fileSize": "14855"
+  },
+  {
+    "id": 47,
+    "name": "Delali Development Cycle — announcements",
+    "description": "Use as-is. Do not add fake metrics or “funded by.” DDC is a framework and planning harness, not a priced round.",
+    "category": "Project Management",
+    "repository": "https://github.com/diamitani/ddc_announcements-skill",
+    "repoName": "ddc_announcements-skill",
+    "fileSize": "2747"
+  },
+  {
+    "id": 48,
+    "name": "Maia Data Sources — Pull Recipes",
+    "description": "All bash blocks start with:",
+    "category": "Other",
+    "repository": "https://github.com/diamitani/data_sources-skill",
+    "repoName": "data_sources-skill",
+    "fileSize": "7912"
+  },
+  {
+    "id": 49,
+    "name": "Spec — Maia Daily Report Workflow (hand to /n8n-engineer)",
+    "description": "Goal:** every morning 07:00 CT, deliver a digest of yesterday's Maia activity to Patrick",
+    "category": "Templates & Documentation",
+    "repository": "https://github.com/diamitani/daily_report_workflow_spec-skill",
+    "repoName": "daily_report_workflow_spec-skill",
+    "fileSize": "3170"
+  },
+  {
+    "id": 50,
+    "name": "GTM Architect — Credentials & Auth Config",
+    "description": "**Security note:** This file contains live API credentials for Patrick's GTM stack.",
+    "category": "Other",
+    "repository": "https://github.com/diamitani/credentials-skill",
+    "repoName": "credentials-skill",
+    "fileSize": "2619"
+  },
+  {
+    "id": 51,
+    "name": "ContextEngine — Persistent Session Memory Layer",
+    "description": "Persistent session memory layer for Claude. Use this skill ANY TIME someone wants to:   save what happened in a session, cache session activity, log progress, ret",
+    "category": "Other",
+    "repository": "https://github.com/diamitani/context_engine-skill",
+    "repoName": "context_engine-skill",
+    "fileSize": "7917"
+  },
+  {
+    "id": 52,
+    "name": "Stakeholder Communication Templates",
+    "description": "Use these as starting points. Adapt to Patrick's voice — direct, concise, no fluff.",
+    "category": "Templates & Documentation",
+    "repository": "https://github.com/diamitani/comms_templates-skill",
+    "repoName": "comms_templates-skill",
+    "fileSize": "2365"
+  },
+  {
+    "id": 53,
+    "name": "CoF — Chief of Staff",
+    "description": "Chief of Staff — {{USER_NAME}}'s personal life OS. Use this skill ANY TIME Patrick   wants executive assistant support, life management, priority help, project status, goal",
+    "category": "Other",
+    "repository": "https://github.com/diamitani/cof-skill",
+    "repoName": "cof-skill",
+    "fileSize": "2632"
+  },
+  {
+    "id": 54,
+    "name": "Chatterbox TTS API — local endpoint reference",
+    "description": "Chatterbox runs as a FastAPI server on `http://localhost:4123` after",
+    "category": "Other",
+    "repository": "https://github.com/diamitani/chatterbox_api-skill",
+    "repoName": "chatterbox_api-skill",
+    "fileSize": "1967"
+  },
+  {
+    "id": 55,
+    "name": "Case Study / Project Overview — Template",
+    "description": "Build the Case Study from this structure. Lead with outcome. Name technologies and translate",
+    "category": "Templates & Documentation",
+    "repository": "https://github.com/diamitani/case_study_template-skill",
+    "repoName": "case_study_template-skill",
+    "fileSize": "4061"
+  },
+  {
+    "id": 56,
+    "name": "Brand System Template — first-time user flow",
+    "description": "Run this the very first time a user makes a video (or whenever",
+    "category": "Design & Visualization",
+    "repository": "https://github.com/diamitani/brand_system_template-skill",
+    "repoName": "brand_system_template-skill",
+    "fileSize": "3010"
+  },
+  {
+    "id": 57,
+    "name": "Azure AI Foundry",
+    "description": "Use this reference when the workflow-builder output needs a model recommendation, deployment note, or prompt orchestration plan through Azure AI Foundry.",
+    "category": "Other",
+    "repository": "https://github.com/diamitani/azure_ai_foundry-skill",
+    "repoName": "azure_ai_foundry-skill",
+    "fileSize": "2075"
+  },
+  {
+    "id": 58,
+    "name": "Architecture — HubSpot Import Formatter",
+    "description": "A lightweight, fully local skill. No servers, no API keys, no data leaves the machine.",
+    "category": "Other",
+    "repository": "https://github.com/diamitani/architecture-skill",
+    "repoName": "architecture-skill",
+    "fileSize": "6831"
+  },
+  {
+    "id": 59,
+    "name": "Archetype deep dive",
+    "description": "Each archetype is a pre-wired Remotion composition. This doc is the quick",
+    "category": "Other",
+    "repository": "https://github.com/diamitani/archetypes-skill",
+    "repoName": "archetypes-skill",
+    "fileSize": "2586"
+  },
+  {
+    "id": 60,
+    "name": "AGENTS.md — Delali Planning Runtime",
+    "description": "You are running inside the Delali Development Cycle Planning Harness.",
+    "category": "AI/Agent Framework",
+    "repository": "https://github.com/diamitani/agents-skill",
+    "repoName": "agents-skill",
+    "fileSize": "880"
+  },
+  {
+    "id": 61,
+    "name": "Artispreneur Music Contract Agent",
+    "description": "\"Use this skill for any music-business agreement: draft, review, explain clauses, negotiate terms, or convert informal deal terms into a signable document. It c",
+    "category": "Music Industry",
+    "repository": "https://github.com/diamitani/artispreneur-music-contract-skill",
+    "repoName": "artispreneur-music-contract-skill",
+    "fileSize": "10221"
+  }
+]
