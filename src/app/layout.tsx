@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Patrick Diamitani — AI Skills Marketplace",
-  description: "Professional AI agent skills for development, automation, design, and business operations",
+  title: "AI Skills Marketplace — Patrick Diamitani",
+  description: "Production-grade AI agent skills for automation, development, GTM operations, and business intelligence. Built with ROSTR framework.",
 };
 
 export default function RootLayout({
