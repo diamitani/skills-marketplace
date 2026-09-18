@@ -72,7 +72,7 @@ Inspired by Framer templates (Momentum, Prompt, Cawar) with premium SaaS pattern
 skills-marketplace/
 ├── public/
 │   └── data/
-│       └── skills.json              # 61 skills (Atlas-filtered)
+│       └── skills.json              # 61 skills (Enterprise Platform-filtered)
 ├── src/
 │   └── app/
 │       ├── globals.css              # Design system tokens
@@ -191,12 +191,12 @@ vercel --prod --scope gptpat
 
 ## Data Source
 
-Skills are sourced from `~/Desktop/pat_skills_catalog.csv` and filtered to exclude Atlas-specific entries:
+Skills are sourced from `~/Desktop/pat_skills_catalog.csv` and filtered to exclude Enterprise Platform-specific entries:
 
 ```bash
 # Original CSV: 90 skills
 # After filtering: 61 skills
-# Exclusion: Skills with "Atlas" or "{{COMPANY_NAME}}"
+# Exclusion: Skills with "Enterprise Platform" or "Enterprise Platform"
 ```
 
 Each skill includes:
